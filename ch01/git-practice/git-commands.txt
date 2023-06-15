@@ -1,0 +1,17 @@
+git --version
+
+git config --global init.defaultBranch main
+
+git init
+
+git status
+
+explorer .
+
+git add file.txt
+
+git commit -m "Adding my file to this version"
+
+git status
+
+git log
