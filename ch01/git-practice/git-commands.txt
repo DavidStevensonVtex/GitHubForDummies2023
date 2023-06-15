@@ -15,3 +15,5 @@ git commit -m "Adding my file to this version"
 git status
 
 git log
+
+git show 9af1531ad52e3738dc1418ebc40af8aa8ab5f598
